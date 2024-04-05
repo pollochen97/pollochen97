@@ -4,10 +4,7 @@
 Frontend developer from Taiwan
 <br>
 I graduated from the Department of Industrial Design at the National Taipei University of Technology. I have a great fondness for the field of art and design and possess considerable design skills and aesthetics. 
-
 <br>
-
-### Learning
 With the growth of technology trends in recent years, I aspire not only to be a designer but also to learn about front-end technologies. I participated in a professional training course by the Institute for Information Industry, totaling 570 hours, where I used react.js and next.js for group project development. I have the capability to independently produce web pages and can balance aesthetics and functionality visually. In managing backend databases, I use mySQL and node.js, familiar with database relationships, ER-models, and integrating information such as orders, products, and reviews through API writing. For collaborative projects, I use GitHub to manage project progress, familiar with its operations and capable of resolving file merge conflicts. 
 
 <br>
