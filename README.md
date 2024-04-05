@@ -1,5 +1,4 @@
-# Hello, I'm Chiwen Chen👋 Nice to meet you!
-## 您好，我是陳琪雯！
+# I'm Chiwen Chen👋 Nice to meet you!
 
 ### About me
 Frontend developer from Taiwan
